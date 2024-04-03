@@ -12,7 +12,7 @@ pipeline {
             steps {
                 echo "retriving Code.."
 
-                git 'https://github.com/ShravyaPanumati/Java_Spring_Boot_App.git'
+                git 'https://github.com/DeepakChandMarthala/Java_Spring_Boot_App.git'
                 
             }
             }
